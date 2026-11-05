@@ -1,0 +1,51 @@
+
+body {
+    background-color: #f4f7fb;
+    font-family: Arial, sans-serif;
+}
+
+.bandeau {
+    background: linear-gradient(135deg, #173653, #2866aa);
+    color: white;
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.bandeau h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.bandeau p {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.kpi-card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+    background: white;
+    min-height: 110px;
+}
+
+.kpi-label {
+    color: #667085;
+    font-size: 14px;
+}
+
+.kpi-valeur {
+    color: #173653;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.graph-card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+    background: white;
+}
